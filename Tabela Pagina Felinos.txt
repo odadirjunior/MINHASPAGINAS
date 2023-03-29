@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>
+           Felinos, Caracteristicas
+        </title>
+    </head>
+    <body bgcolor="pink">
+        <h1>Tabela Master Plus Extra Turbo Premium</h1>
+        <h3>Exemplo</h3>
+
+        <table border="1" width="50%" align="center" cellspacing="5"
+               bordercolor="blue">
+            <tr>
+                <th>Características</th>
+                <th>Subfamilias</th>
+                <th colspan="2">Habitat</th>
+            </tr>
+            <tr >
+                <td bgcolor="green">
+                    Felinos é como chamamos a família de mamíferos Felidae, que é dividida em duas subfamílias:  . 
+                </td>
+                <td>Pantherinae (abrange os leões, tigres, onças pintadas, leopardos) e Felinae (abrange as onças pardas, jaguatiricas, linces, guepardos e gatos domésticos)</td>
+                <td>São nativos de todos os continentes, exceto Antártida e Austrália. (dos brabo)</td>
+                <td align="center">
+                    <img  src="img/felinos-leoes-1014638701-1000x677.jpg" height="100"/>
+                </td>
+            </tr>
+            <tr >
+                <td align="left">
+                    Gatos domésticos 
+                </td>
+                <td align="right">56</td>
+                <td>Da subfamília Felinae, genero FELIS e especie catus </td>
+                <td>
+                    <a href="elis.html">
+                        <img src="img/gatos-felinos.jpg" height="100"/>
+                    </a>
+                </td>
+            </tr>
+
+        </table>
+    </body>
+</html>
